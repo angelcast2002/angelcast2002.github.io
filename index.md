@@ -1,5 +1,7 @@
 <body style="background-color:6B6766;"> 
 
+</body>
+
 <center> <h1>Angel Castellanos</h1></center>
 
 <center> <h2> Lab 2 - Admnistracion de servidores </h2> </center>
@@ -29,8 +31,5 @@
 - bandit18: hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 - bandit19: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 - banditt20: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
-
-</body>
-
 
 
