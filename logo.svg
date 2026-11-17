@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Isotipo de Guardin: torta con una porción separada (presupuesto). -->
+  <style>
+    .m { fill: #111110; }
+    @media (prefers-color-scheme: dark) { .m { fill: #f0efec; } }
+  </style>
+  <g id="mark" class="m">
+    <path d="M11,13 L19,13 A8,8 0 1,1 11,5 Z"/>
+    <path d="M12.5,11.5 L12.5,3.5 A8,8 0 0,1 20.5,11.5 Z"/>
+  </g>
+</svg>
